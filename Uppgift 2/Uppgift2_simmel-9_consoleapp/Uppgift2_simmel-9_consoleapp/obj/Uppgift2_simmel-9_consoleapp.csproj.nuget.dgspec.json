@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\simme\\OneDrive - ltu.se\\Mina projekt\\Uppgift 2\\Uppgift2_simmel-9_consoleapp\\Uppgift2_simmel-9_consoleapp\\Uppgift2_simmel-9_consoleapp.csproj": {}
+    "C:\\Users\\simme\\OneDrive - ltu.se\\Mina projekt\\L0002B\\Uppgift 2\\Uppgift2_simmel-9_consoleapp\\Uppgift2_simmel-9_consoleapp\\Uppgift2_simmel-9_consoleapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\simme\\OneDrive - ltu.se\\Mina projekt\\Uppgift 2\\Uppgift2_simmel-9_consoleapp\\Uppgift2_simmel-9_consoleapp\\Uppgift2_simmel-9_consoleapp.csproj": {
+    "C:\\Users\\simme\\OneDrive - ltu.se\\Mina projekt\\L0002B\\Uppgift 2\\Uppgift2_simmel-9_consoleapp\\Uppgift2_simmel-9_consoleapp\\Uppgift2_simmel-9_consoleapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\simme\\OneDrive - ltu.se\\Mina projekt\\Uppgift 2\\Uppgift2_simmel-9_consoleapp\\Uppgift2_simmel-9_consoleapp\\Uppgift2_simmel-9_consoleapp.csproj",
+        "projectUniqueName": "C:\\Users\\simme\\OneDrive - ltu.se\\Mina projekt\\L0002B\\Uppgift 2\\Uppgift2_simmel-9_consoleapp\\Uppgift2_simmel-9_consoleapp\\Uppgift2_simmel-9_consoleapp.csproj",
         "projectName": "Uppgift2_simmel-9_consoleapp",
-        "projectPath": "C:\\Users\\simme\\OneDrive - ltu.se\\Mina projekt\\Uppgift 2\\Uppgift2_simmel-9_consoleapp\\Uppgift2_simmel-9_consoleapp\\Uppgift2_simmel-9_consoleapp.csproj",
+        "projectPath": "C:\\Users\\simme\\OneDrive - ltu.se\\Mina projekt\\L0002B\\Uppgift 2\\Uppgift2_simmel-9_consoleapp\\Uppgift2_simmel-9_consoleapp\\Uppgift2_simmel-9_consoleapp.csproj",
         "packagesPath": "C:\\Users\\simme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\simme\\OneDrive - ltu.se\\Mina projekt\\Uppgift 2\\Uppgift2_simmel-9_consoleapp\\Uppgift2_simmel-9_consoleapp\\obj\\",
+        "outputPath": "C:\\Users\\simme\\OneDrive - ltu.se\\Mina projekt\\L0002B\\Uppgift 2\\Uppgift2_simmel-9_consoleapp\\Uppgift2_simmel-9_consoleapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\simme\\AppData\\Roaming\\NuGet\\NuGet.Config",

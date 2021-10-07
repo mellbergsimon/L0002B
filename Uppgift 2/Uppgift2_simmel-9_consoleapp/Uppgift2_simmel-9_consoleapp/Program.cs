@@ -53,15 +53,13 @@ namespace Uppgift2_simmel_9_consoleapp
         public string amountSold;
 
     }
-    class Program
-    {
-        static void Main(string[] args)
-        {
+    class Program {
+        static void Main(string[] args) {
             //Variabler:
             //Initiera lista med säljare
             List<User> Users = new List<User> { };
 
-            collectSellerData(Users);
+            Users = collectSellerData(Users);
 
             Console.WriteLine("Hello ZimeX!");
         }
@@ -91,23 +89,17 @@ namespace Uppgift2_simmel_9_consoleapp
         }
 
 
-        public List<User> getInfoFromUser (List<User> Users){ 
+        public List<User> getInfoFromUser(List<User> Users) {
 
-            Console.Write("");
-            int input = 0;
-            
+            Console.Write("Namn: ");
+
             try {
-                input = Console.ReadLine();
-                if (input >= 0) {
-                    return input;
-                } else {
-                    Console.WriteLine("Du kan inte skriva in negativa tal.");
-                    return null;
-                }
-                 
-            } catch {
-            Console.WriteLine("Otillåten input");
-            return -1;
-        }
+                string inputString = Console.ReadLine();
             }
+            catch {
+                Console.WriteLine("Otillåten input");
+            }
+            return Users;
+        }
+    }
 }
