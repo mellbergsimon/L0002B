@@ -1,0 +1,10 @@
+C:\Users\simmel-9\OneDrive - ltu.se\Mina projekt\Uppgift 1\Windows Forms App\Uppgift1_Simmel-9\Uppgift1_Simmel-9\obj\Debug\Uppgift1_Simmel-9.csprojAssemblyReference.cache
+C:\Users\simmel-9\OneDrive - ltu.se\Mina projekt\Uppgift 1\Windows Forms App\Uppgift1_Simmel-9\Uppgift1_Simmel-9\obj\Debug\Uppgift1_Simmel_9.Form1.resources
+C:\Users\simmel-9\OneDrive - ltu.se\Mina projekt\Uppgift 1\Windows Forms App\Uppgift1_Simmel-9\Uppgift1_Simmel-9\obj\Debug\Uppgift1_Simmel_9.Properties.Resources.resources
+C:\Users\simmel-9\OneDrive - ltu.se\Mina projekt\Uppgift 1\Windows Forms App\Uppgift1_Simmel-9\Uppgift1_Simmel-9\obj\Debug\Uppgift1_Simmel-9.csproj.GenerateResource.cache
+C:\Users\simmel-9\OneDrive - ltu.se\Mina projekt\Uppgift 1\Windows Forms App\Uppgift1_Simmel-9\Uppgift1_Simmel-9\obj\Debug\Uppgift1_Simmel-9.csproj.CoreCompileInputs.cache
+C:\Users\simmel-9\OneDrive - ltu.se\Mina projekt\Uppgift 1\Windows Forms App\Uppgift1_Simmel-9\Uppgift1_Simmel-9\bin\Debug\Uppgift1_Simmel-9.exe.config
+C:\Users\simmel-9\OneDrive - ltu.se\Mina projekt\Uppgift 1\Windows Forms App\Uppgift1_Simmel-9\Uppgift1_Simmel-9\bin\Debug\Uppgift1_Simmel-9.exe
+C:\Users\simmel-9\OneDrive - ltu.se\Mina projekt\Uppgift 1\Windows Forms App\Uppgift1_Simmel-9\Uppgift1_Simmel-9\bin\Debug\Uppgift1_Simmel-9.pdb
+C:\Users\simmel-9\OneDrive - ltu.se\Mina projekt\Uppgift 1\Windows Forms App\Uppgift1_Simmel-9\Uppgift1_Simmel-9\obj\Debug\Uppgift1_Simmel-9.exe
+C:\Users\simmel-9\OneDrive - ltu.se\Mina projekt\Uppgift 1\Windows Forms App\Uppgift1_Simmel-9\Uppgift1_Simmel-9\obj\Debug\Uppgift1_Simmel-9.pdb
