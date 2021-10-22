@@ -66,7 +66,7 @@ namespace Uppgift2_simmel_9_consoleapp
                 G3 = new List<User>(),
                 G4 = new List<User>()
             };
-
+            
             CreateFile(fileName);
 
             //Samla in data
@@ -364,13 +364,8 @@ namespace Uppgift2_simmel_9_consoleapp
                     temp = Console.ReadLine();
                     int num = int.Parse(temp);
 
-                    //Negativa tal
-                    if (num < 0) {
-                        throw new Exception("Antal sålt kan inte vara negativt.");
-                    }
-
-                        //Acceptabelt format
-                        user.amountSold = num; ;
+                    //Acceptabelt format
+                    user.amountSold = num; ;
                     break;
                 }
                 catch (FormatException e) {
