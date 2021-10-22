@@ -1,0 +1,4 @@
+Namn            Persnr       Distrikt     Antal       
+Simon           9605203034   123          123         
+1 säljare har nått nivå 3: 100-199 artiklar
+

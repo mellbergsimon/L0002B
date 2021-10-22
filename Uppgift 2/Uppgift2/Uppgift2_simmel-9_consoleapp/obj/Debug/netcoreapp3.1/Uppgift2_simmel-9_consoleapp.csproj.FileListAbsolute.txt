@@ -32,3 +32,17 @@ C:\Users\simme\OneDrive - ltu.se\Mina projekt\L0002B\Uppgift 2\Uppgift2_simmel-9
 C:\Users\simme\OneDrive - ltu.se\Mina projekt\L0002B\Uppgift 2\Uppgift2_simmel-9_consoleapp\Uppgift2_simmel-9_consoleapp\obj\Debug\netcoreapp3.1\Uppgift2_simmel-9_consoleapp.csproj.CoreCompileInputs.cache
 C:\Users\simme\OneDrive - ltu.se\Mina projekt\L0002B\Uppgift 2\Uppgift2_simmel-9_consoleapp\Uppgift2_simmel-9_consoleapp\obj\Debug\netcoreapp3.1\Uppgift2_simmel-9_consoleapp.dll
 C:\Users\simme\OneDrive - ltu.se\Mina projekt\L0002B\Uppgift 2\Uppgift2_simmel-9_consoleapp\Uppgift2_simmel-9_consoleapp\obj\Debug\netcoreapp3.1\Uppgift2_simmel-9_consoleapp.pdb
+C:\Users\simme\OneDrive - ltu.se\Mina projekt\L0002B\Uppgift 2\Uppgift2\Uppgift2_simmel-9_consoleapp\bin\Debug\netcoreapp3.1\Uppgift2_simmel-9_consoleapp.exe
+C:\Users\simme\OneDrive - ltu.se\Mina projekt\L0002B\Uppgift 2\Uppgift2\Uppgift2_simmel-9_consoleapp\bin\Debug\netcoreapp3.1\Uppgift2_simmel-9_consoleapp.deps.json
+C:\Users\simme\OneDrive - ltu.se\Mina projekt\L0002B\Uppgift 2\Uppgift2\Uppgift2_simmel-9_consoleapp\bin\Debug\netcoreapp3.1\Uppgift2_simmel-9_consoleapp.runtimeconfig.json
+C:\Users\simme\OneDrive - ltu.se\Mina projekt\L0002B\Uppgift 2\Uppgift2\Uppgift2_simmel-9_consoleapp\bin\Debug\netcoreapp3.1\Uppgift2_simmel-9_consoleapp.runtimeconfig.dev.json
+C:\Users\simme\OneDrive - ltu.se\Mina projekt\L0002B\Uppgift 2\Uppgift2\Uppgift2_simmel-9_consoleapp\bin\Debug\netcoreapp3.1\Uppgift2_simmel-9_consoleapp.dll
+C:\Users\simme\OneDrive - ltu.se\Mina projekt\L0002B\Uppgift 2\Uppgift2\Uppgift2_simmel-9_consoleapp\bin\Debug\netcoreapp3.1\Uppgift2_simmel-9_consoleapp.pdb
+C:\Users\simme\OneDrive - ltu.se\Mina projekt\L0002B\Uppgift 2\Uppgift2\Uppgift2_simmel-9_consoleapp\obj\Debug\netcoreapp3.1\Uppgift2_simmel-9_consoleapp.csproj.AssemblyReference.cache
+C:\Users\simme\OneDrive - ltu.se\Mina projekt\L0002B\Uppgift 2\Uppgift2\Uppgift2_simmel-9_consoleapp\obj\Debug\netcoreapp3.1\Uppgift2_simmel-9_consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simme\OneDrive - ltu.se\Mina projekt\L0002B\Uppgift 2\Uppgift2\Uppgift2_simmel-9_consoleapp\obj\Debug\netcoreapp3.1\Uppgift2_simmel-9_consoleapp.AssemblyInfoInputs.cache
+C:\Users\simme\OneDrive - ltu.se\Mina projekt\L0002B\Uppgift 2\Uppgift2\Uppgift2_simmel-9_consoleapp\obj\Debug\netcoreapp3.1\Uppgift2_simmel-9_consoleapp.AssemblyInfo.cs
+C:\Users\simme\OneDrive - ltu.se\Mina projekt\L0002B\Uppgift 2\Uppgift2\Uppgift2_simmel-9_consoleapp\obj\Debug\netcoreapp3.1\Uppgift2_simmel-9_consoleapp.csproj.CoreCompileInputs.cache
+C:\Users\simme\OneDrive - ltu.se\Mina projekt\L0002B\Uppgift 2\Uppgift2\Uppgift2_simmel-9_consoleapp\obj\Debug\netcoreapp3.1\Uppgift2_simmel-9_consoleapp.dll
+C:\Users\simme\OneDrive - ltu.se\Mina projekt\L0002B\Uppgift 2\Uppgift2\Uppgift2_simmel-9_consoleapp\obj\Debug\netcoreapp3.1\Uppgift2_simmel-9_consoleapp.pdb
+C:\Users\simme\OneDrive - ltu.se\Mina projekt\L0002B\Uppgift 2\Uppgift2\Uppgift2_simmel-9_consoleapp\obj\Debug\netcoreapp3.1\Uppgift2_simmel-9_consoleapp.genruntimeconfig.cache
