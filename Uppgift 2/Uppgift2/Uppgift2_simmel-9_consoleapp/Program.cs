@@ -66,7 +66,7 @@ namespace Uppgift2_simmel_9_consoleapp
                 G3 = new List<User>(),
                 G4 = new List<User>()
             };
-            
+
             CreateFile(fileName);
 
             //Samla in data
@@ -243,7 +243,7 @@ namespace Uppgift2_simmel_9_consoleapp
             //Namn
             while (true) {
                 try {
-                    Console.WriteLine("Namn: ");
+                    Console.Write("Namn: ");
                     temp = Console.ReadLine();
 
                     if (temp.Length < 3) {
@@ -272,7 +272,7 @@ namespace Uppgift2_simmel_9_consoleapp
             //Personnummer
             while (true) {
                 try {
-                    Console.WriteLine("Personnummer (ÅÅMMDDXXXX): ");
+                    Console.Write("Personnummer (ÅÅMMDDXXXX): ");
                     temp = Console.ReadLine();
 
                     //Första kontroll.
@@ -341,7 +341,7 @@ namespace Uppgift2_simmel_9_consoleapp
             //Distrikt
             while (true) {
                 try {
-                    Console.WriteLine("Distrikt: ");
+                    Console.Write("Distrikt: ");
                     temp = Console.ReadLine();
                     
                     user.district = temp;
@@ -360,12 +360,17 @@ namespace Uppgift2_simmel_9_consoleapp
             //Antal sålda artiklar.
             while (true) {
                 try {
-                    Console.WriteLine("Antal sålda artiklar: ");
+                    Console.Write("Antal sålda artiklar: ");
                     temp = Console.ReadLine();
                     int num = int.Parse(temp);
 
-                    //Acceptabelt format
-                    user.amountSold = num; ;
+                    //Negativa tal
+                    if (num < 0) {
+                        throw new Exception("Antal sålt kan inte vara negativt.");
+                    }
+
+                        //Acceptabelt format
+                        user.amountSold = num; ;
                     break;
                 }
                 catch (FormatException e) {

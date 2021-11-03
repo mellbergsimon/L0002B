@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\simme\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\simme\\.nuget\\packages"
+    ]
+  }
+}
